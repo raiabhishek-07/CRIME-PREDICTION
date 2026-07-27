@@ -1,0 +1,87 @@
+Acid attack - 0
+Arson - 1
+Assault on Women with intent to outrage her Modesty - 2
+Assault or use of criminal force to women with intent to Disrobe - 3
+At Office premises - 4
+Attempt to Acid Attack - 5
+Attempt to commit Culpable Homicide - 6
+Attempt to commit Murder - 7
+Attempt to commit Rape - 8
+Auto Theft - 9
+Causing Death by Negligence - 10
+Cheating - 11
+Counterfeit Offences related to Counterfeit Coin - 12
+Counterfeit currency & Bank notes - 13
+Counterfeiting - 14
+Counterfeiting Government Stamp - 15
+Counterfeiting currency notes/Bank notes - 16
+Criminal Breach of Trust - 17
+Criminal Trespass or Burglary - 18
+Criminal Trespass/Burglary - 19
+Cruelty by Husband or his Relatives - 20
+Culpable Homicide not amounting to Murder - 21
+Custodial Rape - 22
+Custodial_Gang Rape - 23
+Custodial_Other Rape - 24
+Dacoity - 25
+Dacoity with Murder - 26
+Deaths due to Other Causes - 27
+Deaths due to negligent driving/act - 28
+Disclosure of Identity of Victims - 29
+Dowry Deaths - 30
+Extortion - 31
+Forgery - 32
+Grievous Hurt - 33
+House Trespass & House Breaking - 34
+HumanTrafficking - 35
+Hurt - 36
+Importation of Girls from Foreign Country - 37
+Imputation, assertions prejudicial to national integration - 38
+In Public Transport system - 39
+Incidence of Rash Driving - 40
+Insult to the Modesty of Women - 41
+Kidnapping & Abduction - 42
+Kidnapping & Abduction in order to Murder - 43
+Kidnapping & Abduction of Women to compel her for marriage - 44
+Kidnapping & Abduction_Total - 45
+Kidnapping for Ransom - 46
+Making Preparation and Assembly for committing Dacoity - 47
+Making or Possessing materials for forged currency/Bank notes - 48
+Making or Using documents resembling currency - 49
+Murder - 50
+Offences against State - 51
+Offences promoting enmity between different groups - 52
+Other Assault on Women - 53
+Other Dacoity - 54
+Other IPC crimes - 55
+Other Kidnapping - 56
+Other Thefts - 57
+Other offences against State - 58
+Other places related to work - 59
+Places other than 231, 232 & 233 - 60
+Possession of forged or counterfeiting currency/Bank notes - 61
+Promoting enmity between different groups - 62
+Rape - 63
+Rape other than Custodial - 64
+Rape_Gang Rape - 65
+Rape_Others - 66
+Riots - 67
+Riots_Agrarian - 68
+Riots_Caste Conflict - 69
+Riots_Communal - 70
+Riots_Industrial - 71
+Riots_Other Caste Conflict - 72
+Riots_Others - 73
+Riots_Political - 74
+Riots_SC/STs Vs Non-SCs/STs - 75
+Riots_Sectarian - 76
+Riots_Students - 77
+Robbery - 78
+Sedition - 79
+Sexual Harassment - 80
+Stalking - 81
+Theft - 82
+Unlawful Assembly - 83
+Unnatural Offence - 84
+Using forged or counterfeiting currency/Bank notes - 85
+Voyeurism - 86

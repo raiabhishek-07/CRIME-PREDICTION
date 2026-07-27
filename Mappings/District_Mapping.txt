@@ -1,0 +1,782 @@
+Adilabad - 0
+Agar - 1
+Agra - 2
+Ahmedabad City - 3
+Ahmedabad Rural - 4
+Ahmednagar - 5
+Aizawl - 6
+Ajmer - 7
+Akola - 8
+Alapuzha - 9
+Aligarh - 10
+Alipurduar - 11
+Alirajpur - 12
+Allahabad - 13
+Almora - 14
+Alwar - 15
+Ambala (Rural) - 16
+Ambala (Urban) - 17
+Ambedkar Nagar - 18
+Amethi - 19
+Amravati Commr. - 20
+Amravati Rural - 21
+Amreli - 22
+Amritsar Rural - 23
+Amroha - 24
+Anand - 25
+Anantapur - 26
+Anantnag - 27
+Angul - 28
+Anjaw - 29
+Anti Terrorist Squad - 30
+Anuppur - 31
+Araria - 32
+Ariyalur - 33
+Arvalli - 34
+Arwal - 35
+Asansol-Durgapur PC - 36
+Ashok Nagar - 37
+Auraiya - 38
+Aurangabad - 39
+Aurangabad Commr. - 40
+Aurangabad Rural - 41
+Awantipora - 42
+Azamgarh - 43
+Badaun - 44
+Baddi - 45
+Bagaha - 46
+Bagalkot - 47
+Bageshwar - 48
+Baghpat - 49
+Bahraich - 50
+Balaghat - 51
+Balasore - 52
+Ballari - 53
+Ballia - 54
+Balod - 55
+Balodbazar - 56
+Balrampur - 57
+Banaskantha - 58
+Banda - 59
+Bandipora - 60
+Banka - 61
+Bankura - 62
+Banswara - 63
+Barabanki - 64
+Baragarh - 65
+Baramulla - 66
+Baran - 67
+Bareilly - 68
+Barmer - 69
+Barnala - 70
+Barpeta - 71
+Barrackpur PC - 72
+Barwani - 73
+Baska - 74
+Basti - 75
+Batala - 76
+Bathinda - 77
+Beed - 78
+Begusarai - 79
+Belagavi City - 80
+Belagavi District - 81
+Bemetra - 82
+Bengaluru City - 83
+Bengaluru District - 84
+Berhampur - 85
+Bettiah - 86
+Betul - 87
+Bhabhua - 88
+Bhadrak - 89
+Bhagalpur - 90
+Bhandara - 91
+Bharatpur - 92
+Bharuch - 93
+Bhavnagar - 94
+Bhilwara - 95
+Bhind - 96
+Bhiwani - 97
+Bhojpur - 98
+Bhopal - 99
+Bhopal Railway - 100
+Bidar - 101
+Bidhannagar PC - 102
+Bijnor - 103
+Bikaner - 104
+Bilaspur - 105
+Birbhum - 106
+Bishnupur - 107
+Bizapur - 108
+Bokaro - 109
+Bolangir - 110
+Bongaigaon - 111
+Botad - 112
+Boudh - 113
+Budgam - 114
+Bulandshahar - 115
+Buldhana - 116
+Bundi - 117
+Burdwan - 118
+Burhanpur - 119
+Buxar - 120
+C. I. D. - 121
+C. I. D. Crime - 122
+CID - 123
+CP Amritsar - 124
+CP Jalandhar - 125
+CP Ludhiana - 126
+Cachar - 127
+Central - 128
+Chaibasa - 129
+Chamarajnagar - 130
+Chamba - 131
+Chamoli - 132
+Champawat - 133
+Champhai - 134
+Chandel - 135
+Chandigarh - 136
+Chandoli - 137
+Chandrapur - 138
+Changlang - 139
+Chatra - 140
+Chennai - 141
+Chhatarpur - 142
+Chhindwara - 143
+Chhotaudepur - 144
+Chikkaballapura - 145
+Chikkamagaluru - 146
+Chirang - 147
+Chitradurga - 148
+Chitrakoot - 149
+Chittoor - 150
+Chittorgarh - 151
+Churachandpur - 152
+Churu - 153
+Coimbatore - 154
+Coimbatore City - 155
+Coochbehar - 156
+Crime Branch - 157
+Crime Jammu - 158
+Crime Srinagar - 159
+Cuddalore - 160
+Cuddapah - 161
+Cuttack - 162
+Cyber Cell - 163
+Cyberabad - 164
+D&N Haveli - 165
+DCP BBSR - 166
+DCP CTC - 167
+Dahod - 168
+Dakshin Dinajpur - 169
+Dakshina Kannada - 170
+Daman - 171
+Damoh - 172
+Dang - 173
+Dantewara - 174
+Darbhanga - 175
+Darjeeling - 176
+Darrang - 177
+Datia - 178
+Dausa - 179
+Davanagere - 180
+Dehradun - 181
+Deogarh - 182
+Deoghar - 183
+Deoria - 184
+Devbhumi Dwarka - 185
+Dewas - 186
+Dhalai - 187
+Dhamtari - 188
+Dhanbad - 189
+Dhanbad Railway - 190
+Dhar - 191
+Dharmapuri - 192
+Dharwad - 193
+Dhemaji - 194
+Dhenkanal - 195
+Dholpur - 196
+Dhubri - 197
+Dhule - 198
+Dibang Valley - 199
+Dibrugarh - 200
+Dimapur - 201
+Dindigul - 202
+Dindori - 203
+Diu - 204
+Doda - 205
+Dumka - 206
+Dungarpur - 207
+Durg - 208
+EOW - 209
+East - 210
+East Godavari - 211
+Economic Offences Unit - 212
+Ernakulam Commr. - 213
+Ernakulam Rural - 214
+Erode - 215
+Etah - 216
+Etawah - 217
+Faizabad - 218
+Faridabad - 219
+Faridkot - 220
+Fatehabad - 221
+Fatehgarh - 222
+Fatehgarh Sahib - 223
+Fatehpur - 224
+Fazilka - 225
+Ferozepur - 226
+Firozabad - 227
+G. R. P. - 228
+G. R. P. Raipur - 229
+G.R.P.Ajmer - 230
+G.R.P.Jodhpur - 231
+Gadag - 232
+Gadchiroli - 233
+Gajapati - 234
+Ganderbal - 235
+Gandhinagar - 236
+Ganganagar - 237
+Ganjam - 238
+Garhwa - 239
+Gariyaband - 240
+Garo Hills East - 241
+Garo Hills North - 242
+Garo Hills South - 243
+Garo Hills South West - 244
+Garo Hills West - 245
+Gautambudh Nagar - 246
+Gaya - 247
+Ghaziabad - 248
+Ghazipur - 249
+Gir Somnath - 250
+Giridih - 251
+Goalpara - 252
+Godda - 253
+Golaghat - 254
+Gomati - 255
+Gonda - 256
+Gondia - 257
+Gopalganj - 258
+Gorakhpur - 259
+Gumla - 260
+Guna - 261
+Guntakal Railway - 262
+Guntur - 263
+Guntur Urban - 264
+Gurdaspur - 265
+Gurgaon - 266
+Guwahati City - 267
+Gwalior - 268
+Hailakandi - 269
+Hamirpur - 270
+Handwara - 271
+Hanumangarh - 272
+Hapur - 273
+Harda - 274
+Hardoi - 275
+Haridwar - 276
+Hassan - 277
+Hathras - 278
+Haveri - 279
+Hazaribagh - 280
+Hingoli - 281
+Hissar - 282
+Hooghly - 283
+Hoshangabad - 284
+Hoshiarpur - 285
+Howrah G. R. P. - 286
+Howrah PC - 287
+Howrah Rural - 288
+Hubballi Dharwad City - 289
+Hyderabad City - 290
+IGI Airport - 291
+Idukki - 292
+Imphal East - 293
+Imphal West - 294
+Indore - 295
+Indore Railway - 296
+Irrigation & Power - 297
+Jabalpur - 298
+Jabalpur Railway - 299
+Jagatsinghpur - 300
+Jagdalpur - 301
+Jaintia Hills East - 302
+Jaintia Hills West - 303
+Jaipur East - 304
+Jaipur North - 305
+Jaipur Rural - 306
+Jaipur South - 307
+Jaipur West - 308
+Jaisalmer - 309
+Jajpur - 310
+Jalandhar Rural - 311
+Jalaun - 312
+Jalgaon - 313
+Jalna - 314
+Jalore - 315
+Jalpaiguri - 316
+Jamalpur Railway - 317
+Jammu - 318
+Jamnagar - 319
+Jamshedpur - 320
+Jamshedpur Railway - 321
+Jamtara - 322
+Jamui - 323
+Janjgir - 324
+Jashpur - 325
+Jaunpur - 326
+Jehanabad - 327
+Jhabua - 328
+Jhajjar - 329
+Jhalawar - 330
+Jhansi - 331
+Jhargram Police District - 332
+Jharsuguda - 333
+Jhunjhunu - 334
+Jind - 335
+Jodhpur East - 336
+Jodhpur Rural - 337
+Jodhpur West - 338
+Jorhat - 339
+Junagadh - 340
+K.G.F. - 341
+K.Railways - 342
+Kabirdham - 343
+Kachchh East(G) - 344
+Kachchh West(B) - 345
+Kaithal - 346
+Kalaburgi - 347
+Kalahandi - 348
+Kameng East - 349
+Kameng West - 350
+Kamrup - 351
+Kanchipuram - 352
+Kandhamal - 353
+Kangra - 354
+Kanker - 355
+Kannauj - 356
+Kannur - 357
+Kanpur Dehat - 358
+Kanpur Nagar - 359
+Kanyakumari - 360
+Kapurthala - 361
+Karaikal - 362
+Karauli - 363
+Karbi Anglong - 364
+Kargil - 365
+Karimganj - 366
+Karimnagar - 367
+Karnal - 368
+Karur - 369
+Kasargod - 370
+Kasganj - 371
+Kathua - 372
+Katihar - 373
+Katihar Railway - 374
+Katni - 375
+Kaushambi - 376
+Kendrapara - 377
+Keonjhar - 378
+Khagaria - 379
+Khammam - 380
+Khandwa - 381
+Khanna - 382
+Kharagpur G. R. P. - 383
+Khargone - 384
+Khasi Hills East - 385
+Khasi Hills South West - 386
+Khasi Hills West - 387
+Kheda - 388
+Khiri - 389
+Khunti - 390
+Khurda - 391
+Kinnaur - 392
+Kiphire - 393
+Kishanganj - 394
+Kishtwar - 395
+Kodagu - 396
+Koderma - 397
+Kohima - 398
+Kokrajhar - 399
+Kolar - 400
+Kolasib - 401
+Kolhapur - 402
+Kolkata - 403
+Kollam Commr. - 404
+Kollam Rural - 405
+Kondagaon - 406
+Koppal - 407
+Koraput - 408
+Korba - 409
+Koriya - 410
+Kota City - 411
+Kota Rural - 412
+Kottayam - 413
+Kowai - 414
+Kozhikode Commr. - 415
+Kozhikode Rural - 416
+Krishna - 417
+Krishnagiri - 418
+Kukung Kumey - 419
+Kulgam - 420
+Kullu - 421
+Kupwara - 422
+Kurnool - 423
+Kurukshetra - 424
+Kushi Nagar - 425
+Lahaul & Spiti - 426
+Lakhimpur - 427
+Lakhisarai - 428
+Lakshadweep - 429
+Lalitpur - 430
+Latehar - 431
+Latur - 432
+Lawngtlai - 433
+Leh - 434
+Lohardagga - 435
+Lohit - 436
+Longding - 437
+Longleng - 438
+Lower Dibang Valley - 439
+Lucknow - 440
+Ludhiana Rural - 441
+Lunglei - 442
+Madhepura - 443
+Madhubani - 444
+Madurai - 445
+Madurai City - 446
+Mahaboob Nagar - 447
+Maharajganj - 448
+Mahasamund - 449
+Mahendergarh - 450
+Mahisagar - 451
+Mahoba - 452
+Mainpuri - 453
+Malappuram - 454
+Malda - 455
+Malkangiri - 456
+Mamit - 457
+Mandi - 458
+Mandla - 459
+Mandsaur - 460
+Mandya - 461
+Mangaluru City - 462
+Mansa - 463
+Mathura - 464
+Mau - 465
+Mayurbhanj - 466
+Medak - 467
+Meerut - 468
+Mehsana - 469
+Metro - 470
+Mewat - 471
+Mirzapur - 472
+Moga - 473
+Mokokchung - 474
+Mon - 475
+Moradabad - 476
+Morbi - 477
+Morena - 478
+Morigaon - 479
+Motihari - 480
+Muktsar - 481
+Mumbai Commr. - 482
+Mumbai Railway - 483
+Mungali - 484
+Munger - 485
+Murshidabad - 486
+Muzaffarnagar - 487
+Muzaffarpur - 488
+Muzaffarpur Railway - 489
+Mysuru City - 490
+Mysuru District - 491
+N. C. Hills - 492
+Nabarangpur - 493
+Nadia - 494
+Nagaon - 495
+Nagapattinam - 496
+Nagaur - 497
+Nagpur Commr. - 498
+Nagpur Railway - 499
+Nagpur Rural - 500
+Nainital - 501
+Nalanda - 502
+Nalbari - 503
+Nalgonda - 504
+Namakkal - 505
+Nanded - 506
+Nandurbar - 507
+Narayanpur - 508
+Narmada - 509
+Narsinghpur - 510
+Nasik Commr. - 511
+Nasik Rural - 512
+Naugachia - 513
+Navi Mumbai - 514
+Navsari - 515
+Nawadah - 516
+Nayagarh - 517
+Neemuch - 518
+Nellore - 519
+New Delhi - 520
+Nicobar - 521
+Nilgiris - 522
+Nizamabad - 523
+North - 524
+North & Middle Andaman - 525
+North 24 Parganas - 526
+North Goa - 527
+North-East - 528
+North-West - 529
+Nuapada - 530
+Osmanabad - 531
+Other Units - 532
+Outer - 533
+Pakur - 534
+Palakkad - 535
+Palamu - 536
+Palghar - 537
+Pali - 538
+Palwal - 539
+Panchkula - 540
+Panchmahal - 541
+Panipat - 542
+Panna - 543
+Papum Pare City - 544
+Papum Pare Rural - 545
+Parbhani - 546
+Paschim Medinipur - 547
+Patan - 548
+Pathanamthitta - 549
+Pathankot - 550
+Patiala - 551
+Patna - 552
+Patna Railway - 553
+Pauri Garhwal - 554
+Perambalur - 555
+Peren - 556
+Phek - 557
+Pilibhit - 558
+Pithoragarh - 559
+Poonch - 560
+Porbandar - 561
+Praapgarh - 562
+Prakasham - 563
+Pratapgarh - 564
+Puducherry - 565
+Pudukottai - 566
+Pulwama - 567
+Pune Commr. - 568
+Pune Railway - 569
+Pune Rural - 570
+Purab Medinipur - 571
+Puri - 572
+Purnea - 573
+Purulia - 574
+RAILWAY - 575
+Raibareilly - 576
+Raichur - 577
+Raigad - 578
+Raigarh - 579
+Railway Chennai - 580
+Railway Trichy - 581
+Railways - 582
+Railways Jammu - 583
+Railways Kashmir - 584
+Railways Katra - 585
+Raipur - 586
+Raisen - 587
+Rajahmundry - 588
+Rajgarh - 589
+Rajkot City - 590
+Rajkot Rural - 591
+Rajnandgaon - 592
+Rajouri - 593
+Rajsamand - 594
+Ramanagar - 595
+Ramban - 596
+Ramgarh - 597
+Ramnathapuram - 598
+Rampur - 599
+Ranchi - 600
+Ranga Reddy - 601
+Ratlam - 602
+Ratnagiri - 603
+Rayagada - 604
+Reasi - 605
+Rewa - 606
+Rewari - 607
+Ri-Bhoi - 608
+Rohtak - 609
+Rohtas - 610
+Ropar - 611
+Rourkela - 612
+Rudra Prayag - 613
+SAS Nagar - 614
+SBS Nagar - 615
+SPUWAC - 616
+SRP (Cuttack) - 617
+SRP (Rourkela) - 618
+Sabarkantha - 619
+Sagar - 620
+Saharanpur - 621
+Saharsa - 622
+Sahebganj - 623
+Saiha - 624
+Salem - 625
+Salem City - 626
+Samastipur - 627
+Samba - 628
+Sambalpur - 629
+Sambhal - 630
+Sangli - 631
+Sangrur - 632
+Sant Kabirnagar - 633
+Saraikela - 634
+Saran - 635
+Sarguja - 636
+Satara - 637
+Satna - 638
+Sawai Madhopur - 639
+Sealdah G. R. P. - 640
+Secunderabad Railway - 641
+Sehore - 642
+Senapati - 643
+Seoni - 644
+Serchhip - 645
+Shahdol - 646
+Shahjahanpur - 647
+Shajapur - 648
+Shamli - 649
+Sheikhpura - 650
+Sheohar - 651
+Sheopur - 652
+Shimla - 653
+Shimoga - 654
+Shivpuri - 655
+Shopian - 656
+Shrawasti - 657
+Siang East - 658
+Siang Upper - 659
+Siang West - 660
+Sibsagar - 661
+Sidharthnagar - 662
+Sidhi - 663
+Sikar - 664
+Siliguri G. R. P. - 665
+Siliguri PC - 666
+Simdega - 667
+Sindhudurg - 668
+Singrauli - 669
+Sipahijala - 670
+Sirmaur - 671
+Sirohi - 672
+Sirsa - 673
+Sitamarhi - 674
+Sitapur - 675
+Sivagangai - 676
+Siwan - 677
+Solan - 678
+Solapur Commr. - 679
+Solapur Rural - 680
+Sonbhadra - 681
+Sonepur - 682
+Sonipat - 683
+Sonitpur - 684
+Sopore - 685
+South - 686
+South 24 Parganas - 687
+South Andaman - 688
+South Goa - 689
+South-East - 690
+South-West - 691
+Spl Cell - 692
+Spl Traffic - 693
+Srikakulam - 694
+Srinagar - 695
+St.Ravidasnagar - 696
+Subansiri Lower - 697
+Subansiri Upper - 698
+Sukma - 699
+Sultanpur - 700
+Sundargarh - 701
+Supaul - 702
+Surajpur - 703
+Surat City - 704
+Surat Rural - 705
+Surendranagar - 706
+Tamenglong - 707
+Tapi - 708
+Tarn Taran - 709
+Tawang - 710
+Tehri Garhwal - 711
+Thane Commr. - 712
+Thane Rural - 713
+Thanjavur - 714
+Theni - 715
+Thirunelveli - 716
+Thirunelveli City - 717
+Thiruvallur - 718
+Thiruvannamalai - 719
+Thiruvarur - 720
+Thoothugudi - 721
+Thoubal - 722
+Thrissur Commr. - 723
+Thrissur Rural - 724
+Tikamgarh - 725
+Tinsukia - 726
+Tirap - 727
+Tirupathi Urban - 728
+Tiruppur - 729
+Tiruppur City - 730
+Tonk - 731
+Trichy - 732
+Trichy City - 733
+Trivandrum Commr. - 734
+Trivandrum Rural - 735
+Tuensang - 736
+Tumakuru - 737
+Udaipur - 738
+Udalguri - 739
+Udhampur - 740
+Udhamsingh Nagar - 741
+Udupi - 742
+Ujjain - 743
+Ukhrul - 744
+Umaria - 745
+Una - 746
+Unakoti - 747
+Unnao - 748
+Uttar Dinajpur - 749
+Uttara Kannada - 750
+Uttarkashi - 751
+Vadodara City - 752
+Vadodara Rural - 753
+Vaishali - 754
+Valsad - 755
+Varanasi - 756
+Vellore - 757
+Vidisha - 758
+Vigilance - 759
+Vijayapura - 760
+Vijayawada City - 761
+Vijayawada Railway - 762
+Villupuram - 763
+Virudhunagar - 764
+Visakha Rural - 765
+Visakhapatnam - 766
+Vizianagaram - 767
+W.Rly  Ahmedabad - 768
+W.Rly Vadodara - 769
+Warangal - 770
+Warangal Urban - 771
+Wardha - 772
+Washim - 773
+Wayanadu - 774
+West - 775
+West Godavari - 776
+Wokha - 777
+Yadgiri - 778
+Yamunanagar - 779
+Yavatmal - 780
+Zunheboto - 781

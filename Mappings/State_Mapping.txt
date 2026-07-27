@@ -1,0 +1,36 @@
+A&N Islands - 0
+Andhra Pradesh - 1
+Arunachal Pradesh - 2
+Assam - 3
+Bihar - 4
+Chandigarh - 5
+Chhattisgarh - 6
+D&N Haveli - 7
+Daman & Diu - 8
+Delhi UT - 9
+Goa - 10
+Gujarat - 11
+Haryana - 12
+Himachal Pradesh - 13
+Jammu & Kashmir - 14
+Jharkhand - 15
+Karnataka - 16
+Kerala - 17
+Lakshadweep - 18
+Madhya Pradesh - 19
+Maharashtra - 20
+Manipur - 21
+Meghalaya - 22
+Mizoram - 23
+Nagaland - 24
+Odisha - 25
+Puducherry - 26
+Punjab - 27
+Rajasthan - 28
+Sikkim - 29
+Tamil Nadu - 30
+Telangana - 31
+Tripura - 32
+Uttar Pradesh - 33
+Uttarakhand - 34
+West Bengal - 35
