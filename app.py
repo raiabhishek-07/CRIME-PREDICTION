@@ -61,18 +61,29 @@ def load_assets():
     encoders_path = os.path.join(base_dir, 'Model', 'encoders.pkl')
     csv_path = os.path.join(base_dir, 'Dataset', 'dstrIPC_1_2014.csv')
     
-    if not os.path.exists(model_path) or not os.path.exists(encoders_path):
+    need_training = not os.path.exists(model_path) or not os.path.exists(encoders_path)
+    
+    if not need_training:
+        try:
+            with open(model_path, 'rb') as f:
+                model = pickle.load(f)
+            with open(encoders_path, 'rb') as f:
+                encoders = pickle.load(f)
+        except Exception:
+            need_training = True
+            
+    if need_training:
         import train_model
         train_model.train()
-        
-    with open(model_path, 'rb') as f:
-        model = pickle.load(f)
-    with open(encoders_path, 'rb') as f:
-        encoders = pickle.load(f)
+        with open(model_path, 'rb') as f:
+            model = pickle.load(f)
+        with open(encoders_path, 'rb') as f:
+            encoders = pickle.load(f)
         
     df = pd.read_csv(csv_path)
     df_clean = df[df['District'].str.upper() != 'TOTAL'].copy()
     return model, encoders, df_clean
+
 
 model, encoders, df_clean = load_assets()
 
